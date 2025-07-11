@@ -1,0 +1,5 @@
+{
+  "name": "AI Text Refiner",
+  "description": "Refine English, Banglish, and Bengali text into professional, casual, crazy, or cool variants using the Gemini AI. Enhance your writing with different tones effortlessly.",
+  "requestFramePermissions": []
+}
