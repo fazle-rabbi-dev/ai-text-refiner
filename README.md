@@ -1,14 +1,7 @@
-# Run and deploy your AI Studio app
+# ai-text-refiner
 
-This contains everything you need to run your app locally.
+<div align="center">
+   <img src="ss.png" width="60%">
+</div>
 
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+✨ A text utility website to refine English, Bengali, and Banglish text with the power of Gemini. And yeah! This project was built by Gemini; I didn't write a single line of code.
